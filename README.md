@@ -1,20 +1,23 @@
 
 # Fleet Management Software
-Fleet Management Software is developed for vehicle Management for an individual of rental car service or for a corporate company like Uber or pathao. With this software a customer can book vehicle for himself.The Frontend is developed on ReactJs and the Backend is developed on CodeIgniter3 using API request.
+Fleet Management Software is developed for vehicle Management for an individual rental car service or for a corporate company like Uber or Pathao. With this software, a customer can book the vehicle for himself. The Frontend is developed on ReactJs and the Backend is developed on CodeIgniter3 using API request.
 
 
 ## Deployment
 
 To deploy this project run
-
-Sql file add from database folder in localhost/phpmyadmin then this Website run with database.
+```bash
+npm install
+npm start
+```
+Sql file adds from the database folder in localhost/phpmyadmin then this Website run with the database.
 
 ```bash
-Username:sharmin@gmail.com
+Username:sharmin@email.com
 password:12345
 ```
 
-## Features Of Fleet-Managment
+## Features Of Fleet-Management
 
 - Vehicle management
 - Driver management
@@ -22,14 +25,14 @@ password:12345
 - Booking management
 - Fuel management
 - Parts management
-- Parts Maintanance
+- Parts Maintenance
 - Payment management
 - Income Expense report
 - Engine oil change Reminder
 - Live tracking Vehicle
 - User management
 ## My Skills
-I'm Sharmin Akter.I'm a full stack developer.My Skills are....
+I'm Sharmin Akter. I'm a full-stack developer. My Skills are...
 - PHP
 - Laravel 
 - Codeigniter3 
